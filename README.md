@@ -2,7 +2,7 @@
 
 Have you thought about the possibility of querying a relational database like PostgreSQL from RStudio? 
 
-In 2021, I tried to do this, but I found out that there were not many resources explaining how to do that in great detail. I should have written this article a while ago. However, during that time, I taught a project-based course on Coursera titled "Manipulate R data frames using SQL in RStudio" to understand how to use and write SQL codes to query R data frames in RStudio. You can check out the course here.
+In 2021, I tried to do this, but I found out that there were not many resources explaining how to do that in great detail. I should have written this article a while ago. However, during that time, I taught a project-based course on Coursera titled "Manipulate R data frames using SQL in RStudio" to understand how to use and write SQL codes to query R data frames in RStudio. You can check out the course [here](https://www.coursera.org/learn/manipulate-r-data-frames-using-sql-rstudio/home/week/1).
 
 In these articles, I will show you how to connect locally to a PostgreSQL and MySQL database. The ideas you will glean from this article will be helpful when connecting to other relational databases, including SQL Server, even if the database is in cloud storage.
 
