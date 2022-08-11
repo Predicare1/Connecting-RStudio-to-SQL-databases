@@ -13,8 +13,8 @@ I believe that this provides a solid reason why this article is essential.
 
 Now, click on the links below to read these articles.
 
-* Learn to connect RStudio to a local PostgreSQL database here
+* Learn to connect RStudio to a local PostgreSQL database [here](https://arimoroolayinka.medium.com/a-simple-guide-on-connecting-rstudio-to-a-postgresql-database-9e35ccdc08be)
 
-* Learn to connect RStudio to a local MySQL database here
+* Learn to connect RStudio to a local MySQL database [here](https://arimoroolayinka.medium.com/a-simple-guide-on-connecting-rstudio-to-a-mysql-database-d8a8ca6573fd)
 
 This repository contains the R codes used to explain the steps in the articles.
